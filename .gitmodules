@@ -1,0 +1,4 @@
+[submodule "3rdparty/libbpf"]
+	path = 3rdparty/libbpf
+	url = https://github.com/libbpf/libbpf.git
+	branch = libbpf-1.6.1
